@@ -40,4 +40,8 @@ p {
   font-family: "Times New Roman", Times, serif;
 }
 
+.card-body {
+  padding: 0px;
+}
+
 /*# sourceMappingURL=estilo.css.map */
