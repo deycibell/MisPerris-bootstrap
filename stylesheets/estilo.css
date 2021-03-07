@@ -1,0 +1,43 @@
+footer {
+  background-color: aquamarine;
+  text-align: center;
+  height: 50px;
+}
+footer p {
+  color: crimson;
+  padding-top: 8px;
+}
+
+.presentacion {
+  background-color: aquamarine;
+}
+
+.navbar {
+  background-color: aquamarine;
+  padding: 0 auto;
+}
+.navbar ul li a {
+  text-decoration: none;
+  color: white;
+}
+.navbar a:hover {
+  color: tomato;
+  font-size: large;
+}
+
+h5 {
+  font-weight: bold;
+  font-family: cursive;
+}
+
+p {
+  font-weight: bold;
+  color: gray;
+}
+
+.card-text {
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+/*# sourceMappingURL=estilo.css.map */

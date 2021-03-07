@@ -1,0 +1,19 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the header of the site/application.
+// -----------------------------------------------------------------------------
+
+.presentacion{
+    background-color: aquamarine;
+}
+.navbar{
+    background-color: aquamarine;
+    padding: 0 auto;
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: tomato; 
+    font-size: large;
+}
+}
